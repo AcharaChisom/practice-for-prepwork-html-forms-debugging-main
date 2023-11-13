@@ -1,0 +1,7 @@
+// .devcontainer/devcontainer.json
+{
+    "name": "practice-for-prepwork-html-forms-debugging",
+    "image": "cypress/base:14",
+    "forwardPorts": [3000] // Add any additional ports your app uses
+  }
+  
